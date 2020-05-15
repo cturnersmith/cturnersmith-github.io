@@ -1,0 +1,30 @@
+body {
+    background-color: fuchsia;
+    border: 50px gainsboro;
+}
+
+
+header {
+    display: flex;
+    text-align: center;
+    background-color: aqua;
+   margin: 50px 25px 25px 50px;
+   height: 25%;
+}
+ .Name {
+     display: flex;
+     text-align: center;
+     font-size: 40px;
+     font-family: 'Pacifico', sans-serif;
+     position: relative;
+    
+ }
+li a {
+    flex-direction: row;
+}
+
+img {
+    display: flex;
+    position: relative;
+
+}
